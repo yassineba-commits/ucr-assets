@@ -113,3 +113,15 @@ refs: FACE_AURELIA, CAST_AURELIA_HERO
 ## M06 makeup v3 (5 s)
 refs: FACE_AURELIA
 BTS documentary, makeup trailer with bulb mirrors: the AURELIA actress in a white robe in the chair; the makeup artist (woman, 40s, face fully visible in the mirror and in profile) places a tiny gold flake on her cheekbone with tweezers and says on camera, lips in sync: "Hold still, Aurelia." The actress smiles in the mirror. Real skin, practical light, no music.
+
+## FIGHT A — Nova dominates (8 s) — video ref previs/PV_FIGHT_A.mp4 (motion only)
+refs: FACE_NOVA, CAST_NOVA_HERO, FACE_BLAZE_flow_nbpro_v1_OK, CAST_BLAZE_HERO_flow_nbpro_v1_OK
+Live-action superhero feature footage, 8 seconds, at dusk on a wet white-marble terrace between gold columns, HEAVY REAL RAIN from rain towers: thick vertical streaks backlit by a low cold key light, rain bouncing off the marble, shallow puddles with ripples, water spraying off hair, clothes and gloves on every impact, soaked hair stuck to faces, breath vapour. The video reference is ONLY a choreography and camera guide made with grey mannequins: follow its moves, timing, cuts and camera path exactly, NEVER show mannequins. Image 1 = NOVA's face (young woman, deep brown skin, platinum-blonde short crop), image 2 = NOVA's suit (navy-silver), image 3 = BLAZE's face (28, dark curly hair, thick brows), image 4 = BLAZE's outfit (black sleeveless hoodie, crimson hand wraps, headphones around neck). Nobody resembles a real actor.
+0-0.7 s: wide handheld two-shot, both circling in guard on the wet stone.
+0.8-2.0 s: Nova's jab and cross land on his gloves with spray; he swings a hook, she slips under it, lands a left hook to his ribs, ducks his counter cross.
+2.1-2.7 s: she spins and her back kick lands flat on his chest, a burst of water off his hoodie.
+2.7-3.5 s: he stumbles back 2 m, feet slipping on the wet marble.
+3.5-4.7 s: over-the-shoulder behind Blaze: Nova bounces in stance, snaps her fingers at him, chin up, cocky.
+4.7-5.6 s: low angle 28 mm: Blaze straightens and wipes his lip with the back of his wrapped hand.
+5.6-8 s: 3/4 close-up on Blaze in the rain, he grins and says on camera, lips in sync: "Hit me." then beckons her with two fingers.
+Every strike makes contact (gloves, body, chest), no punches into empty air, no glowing knuckles, no fire, no sparkle particles, no CG look. STYLE: 35 mm anamorphic, film grain, real skin and wet fabric. AUDIO: no music; rain, impacts, breathing, his line.
