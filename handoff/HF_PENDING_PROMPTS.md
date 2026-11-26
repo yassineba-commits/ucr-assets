@@ -125,3 +125,16 @@ Live-action superhero feature footage, 8 seconds, at dusk on a wet white-marble 
 4.7-5.6 s: low angle 28 mm: Blaze straightens and wipes his lip with the back of his wrapped hand.
 5.6-8 s: 3/4 close-up on Blaze in the rain, he grins and says on camera, lips in sync: "Hit me." then beckons her with two fingers.
 Every strike makes contact (gloves, body, chest), no punches into empty air, no glowing knuckles, no fire, no sparkle particles, no CG look. STYLE: 35 mm anamorphic, film grain, real skin and wet fabric. AUDIO: no music; rain, impacts, breathing, his line.
+
+## STAND-IN (n°14) — réplique de Pip
+Pip dit, en regardant le visage du cascadeur sur échasses : "You're even taller than the statue!" — il baisse les yeux vers elle et rit.
+
+## FIGHT B — Blaze gets stronger and wins (8 s) — video ref previs/PV_FIGHT_B.mp4 (motion only; si pas encore en ligne, générer sans vidéo en suivant les temps ci-dessous)
+refs: FACE_NOVA, CAST_NOVA_HERO, FACE_BLAZE_flow_nbpro_v1_OK, CAST_BLAZE_HERO_flow_nbpro_v1_OK
+Same scene, same heavy real rain and wet marble between gold columns as FIGHT A (thick backlit rain streaks, water spraying off clothes and gloves on every impact, puddles with ripples, soaked hair). The video reference is ONLY a choreography and camera guide made with grey mannequins: never show mannequins. Image 1 = NOVA's face (young woman, deep brown skin, platinum-blonde short crop), image 2 = NOVA's navy-silver suit, image 3 = BLAZE's face (28, dark curly hair, thick brows), image 4 = BLAZE's outfit (black sleeveless hoodie, crimson hand wraps, headphones round his neck). Nobody resembles a real actor.
+0-2 s: wide 2-shot: Nova charges; her knee drives into his ribs and her right cross snaps his head sideways, water flying — but Blaze does not move his feet, he just absorbs it, stronger with every hit.
+2-3.5 s: over-the-shoulder: she throws a roundhouse kick; he catches her leg with one arm, spins her; she rolls on the wet stone and springs back up.
+3.5-5 s: low angle 28 mm: she launches a flying knee; he blocks it with both forearms crossed, a burst of spray.
+5-6.2 s: he answers with ONE heavy straight body shot: she is sent sliding back 3 m across the wet marble on her side, water fanning out.
+6.2-8 s: 3/4 close-up on Blaze in the rain, rolling his neck, he says on camera, lips in sync, with a cocky grin: "Thanks for the warm-up."
+Every strike makes contact, no punches into empty air, no glowing knuckles, no fire, no sparkle particles, no CG look. STYLE: 35 mm anamorphic, film grain, real skin and wet fabric. AUDIO: no music; rain, impacts, breathing, his line.
