@@ -85,3 +85,13 @@ REALISM: real varied crowd, no duplicates, no empty seats, natural skin and fabr
 
 ## PILLAR SAVE — NOTE DE YACINE
 Remplace TOUT ce qui précède le sauvetage d'Atlas (trop lent). Garder ensuite la scène existante où Atlas tient la colonne et où Pip dit « We thought you skipped legs. » Rythme : la colonne doit être en train de tomber dès la 1re seconde, panique immédiate, Atlas arrive en moins d'une demi-seconde. Utiliser le prompt PILLAR SAVE ci-dessus + previs/PV_PILLAR_SAVE.mp4.
+
+## DATE — Aurelia close-up v2 (5 s) — COSTUME FIX
+refs: flow/FACE_AURELIA_flow_nbpro_v1_OK.png (+ a frame of her champagne gown from the ceremony if available)
+WARDROBE LOCK: the AURELIA actress wears the SAME dress as at the awards: a champagne satin ONE-SHOULDER evening gown with a gold cuff bracelet (NOT the gold feather/armour film costume, no metallic leaves).
+Cinematic night scene, rooftop restaurant terrace, string lights and city bokeh behind, candle on the white tablecloth, 85 mm close-up, warm candlelight key from below-left. Image 1 = the AURELIA actress's face (identity locked; the tiny 3 mm gold flake on her cheekbone stays).
+0-1.5 s: she listens to the man across the table (off-screen), trying not to smile.
+1.5-3 s: she bursts out laughing, near tears, head tilting, hand briefly to her chest (NOT covering her mouth).
+3-5 s: she looks at him and says on camera, lips clearly in sync, laughing: "…Okay. You finally got me."
+REALISM: real skin with pores, natural film grain, real fabric sheen, no CG look, no text, no celebrity resemblance. AUDIO: no music; her laugh and line, soft terrace ambience.
+Note: the wide two-shots of the date (IF_DATE) also show her in a different gold satin dress — if regenerating the date wide too, apply the same wardrobe lock (Atlas: midnight-navy tux, bow tie undone, glasses).
