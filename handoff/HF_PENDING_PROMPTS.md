@@ -82,3 +82,6 @@ Live broadcast footage of a real gala awards ceremony, 8 seconds, ARRI Alexa 35,
 2.5-6 s: handheld medium two-shot in the stalls: a woman in her 40s (black gown) leans to the man beside her (50s, tuxedo) and says on camera, lips in sync, over the applause: "I'd seen it already… but I hadn't realised until now." He nods, amazed: "Me neither."
 6-8 s: medium shot of the front row: the ATLAS actor (image 2) standing, moved, the AURELIA actress (image 3) beside him looking at him differently for the first time, the ORION actor (image 4) clapping.
 REALISM: real varied crowd, no duplicates, no empty seats, natural skin and fabric, film grain, no CG look, no text, nobody resembles a real celebrity. AUDIO: no music; roaring applause, "wow"s, the two lines clearly audible.
+
+## PILLAR SAVE — NOTE DE YACINE
+Remplace TOUT ce qui précède le sauvetage d'Atlas (trop lent). Garder ensuite la scène existante où Atlas tient la colonne et où Pip dit « We thought you skipped legs. » Rythme : la colonne doit être en train de tomber dès la 1re seconde, panique immédiate, Atlas arrive en moins d'une demi-seconde. Utiliser le prompt PILLAR SAVE ci-dessus + previs/PV_PILLAR_SAVE.mp4.
