@@ -49,3 +49,10 @@ Live broadcast footage of a real gala awards ceremony, 8 seconds, 2 shots with a
 0-6 s (podium two-shot, slow push-in): the HOST raises a sealed cream envelope, glances at the CO-HOST, she smiles and nods; he tears it open in one crisp real-speed motion, pulls out the card and reads; he holds a beat looking at the crowd, suspense, then leans toward the microphone.
 6-8 s (85 mm close-up on his face): he says on camera, lips clearly in sync: "And this year's Solstice Award for Best Short Film goes to... Impact Factory Productions!" with a big grin.
 No floating objects, no readable text on the card, no duplicates. STYLE/AUDIO as P3 (paper tear, hush, his voice, eruption of applause, no music).
+
+## P4 v2 (6-7 s) with motion ref previs/PV_HOST_SCREEN.mp4 (motion only) — preferred P4
+refs: host_face, FACE_HOST, cohost_face, FACE_COHOST, hall_t4 + video PV_HOST_SCREEN
+Live broadcast footage of a real gala awards ceremony, 7 seconds, one continuous shot. The video reference is ONLY a camera and blocking guide made with grey mannequins: follow its slow ~15-degree orbit and the turn-and-point blocking, never show mannequins; both presenters are real people. [HOST block]
+0-4.5 s: podium two-shot; the HOST says on camera, lips clearly in sync, playful smile: "Before our last award, Best Actor, the winner plays in full. But first... how it was made."
+4.5-7 s: he turns and points to the giant LED screen behind them while the CO-HOST turns to look at it, smiling; the camera orbits slowly to reveal the screen brightening.
+No duplicates, no floating objects, no readable text. STYLE/AUDIO as P3 (his voice, soft murmur, a few laughs, no music).
