@@ -95,3 +95,21 @@ Cinematic night scene, rooftop restaurant terrace, string lights and city bokeh 
 3-5 s: she looks at him and says on camera, lips clearly in sync, laughing: "…Okay. You finally got me."
 REALISM: real skin with pores, natural film grain, real fabric sheen, no CG look, no text, no celebrity resemblance. AUDIO: no music; her laugh and line, soft terrace ambience.
 Note: the wide two-shots of the date (IF_DATE) also show her in a different gold satin dress — if regenerating the date wide too, apply the same wardrobe lock (Atlas: midnight-navy tux, bow tie undone, glasses).
+
+## REVEAL ON CAMERA — the cast breaks the 4th wall (3 clips, 5 s each) — NOUVEAU
+Common refs: the character's FACE_* master + its CAST_*_HERO costume. Setting for all three: the real green-screen stage of the shoot (green walls with tracking crosses, crash mats, lighting rigs, a camera crane, crew applauding in the background), handheld documentary camera, natural studio light, real skin. The actors are in their hero costumes with a lanyard. Each looks STRAIGHT INTO THE LENS and speaks on camera, lips in sync. No music, studio ambience + a few crew laughs. No text, no CG look, nobody resembles a celebrity.
+R1 (PIP, image 1 FACE_PIP, image 2 CAST_PIP_HERO): she walks up to the camera, grinning, leans in close: "Everything you just saw… isn't real." She winks.
+R2 (NOVA, FACE_NOVA + CAST_NOVA_HERO; ATLAS & AURELIA actors laughing behind her): she points around her with both hands: "Not the hall. Not the crowd. Not even us." She laughs.
+R3 (ATLAS actor in navy tux + AURELIA actress in the champagne one-shoulder gown, side by side, his arm around her; FACE_ATLAS + FACE_AURELIA): ATLAS: "It was made with Impact Factory." AURELIA, smiling: "Try it — for only ninety-nine cents."
+
+## CLIMAX F15 v3 — the giant punch reaches her (4 s)
+refs: FACE_AURELIA, CAST_AURELIA_HERO, FACE_ATLAS, CAST_ATLAS_HERO + video HF_R1_t2 frames as look ref if possible
+Live-action fantasy feature footage, 4 s, sunset on the gold bridge. 0-2 s: low wide: ATLAS (silver hair, glasses, cobalt suit, right arm turned to gold) flies in fast and lands 1 m in front of AURELIA, already throwing a huge right punch. 2-4 s: 85 mm close-up on AURELIA's face, frame filled by the incoming giant fist and a wall of displaced air/heat haze (NO neon, NO glowing outline), her hair and earrings blown back by the air pressure, eyes wide; the shot ENDS on the frame just before contact. No halo, no spikes behind her head, no music, real skin, film grain.
+
+## AURELIA CU without halo (3 s) — replaces final_run_v2 7–9 s
+refs: FACE_AURELIA, CAST_AURELIA_HERO
+85 mm close-up of AURELIA at sunset on the bridge, wind in her hair, she sees the threat coming and her confident face cracks for the first time. NO halo, NO rays or spikes behind her head, plain warm sky and stone behind. Real skin, film grain, no music.
+
+## M06 makeup v3 (5 s)
+refs: FACE_AURELIA
+BTS documentary, makeup trailer with bulb mirrors: the AURELIA actress in a white robe in the chair; the makeup artist (woman, 40s, face fully visible in the mirror and in profile) places a tiny gold flake on her cheekbone with tweezers and says on camera, lips in sync: "Hold still, Aurelia." The actress smiles in the mirror. Real skin, practical light, no music.
