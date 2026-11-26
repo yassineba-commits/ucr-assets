@@ -73,3 +73,12 @@ Live broadcast footage of a real gala awards ceremony, 5 seconds, handheld broad
 1.5-3.5 s: the AURELIA actress, beside him in the same row, stands and hugs him warmly, both clearly in the same space; he laughs with emotion; the ORION actor next to them claps with a hand on his heart.
 3.5-5 s: the ATLAS actor turns toward the stage and starts walking down the aisle past the camera, guests patting his shoulder.
 REALISM: real crowd with varied faces, no duplicates, natural skin, real fabric, warm theatre lighting with haze, film grain, no CG look, no text. AUDIO: no music; roaring applause and cheers only.
+
+## OVATION AFTER THE FILM (8 s) — NOUVEAU
+refs: vref/hall_t4.jpg, flow/FACE_ATLAS_flow_nbpro_v1_OK.png, flow/FACE_AURELIA_flow_nbpro_v1_OK.png, flow/FACE_ORION_flow_nbpro_v1_OK.png
+WARDROBE LOCK: ATLAS actor midnight-navy tux + glasses; AURELIA actress champagne satin one-shoulder gown + gold cuff; ORION actor black tux, round glasses.
+Live broadcast footage of a real gala awards ceremony, 8 seconds, ARRI Alexa 35, real theatre lighting with haze. The giant LED screen has just finished showing the film's best scenes.
+0-2.5 s: wide from the side of the stalls: the lights come back up and the whole packed hall rises in a spontaneous standing ovation, people saying "wow", hands over mouths, real emotion; the screen glows gold behind.
+2.5-6 s: handheld medium two-shot in the stalls: a woman in her 40s (black gown) leans to the man beside her (50s, tuxedo) and says on camera, lips in sync, over the applause: "I'd seen it already… but I hadn't realised until now." He nods, amazed: "Me neither."
+6-8 s: medium shot of the front row: the ATLAS actor (image 2) standing, moved, the AURELIA actress (image 3) beside him looking at him differently for the first time, the ORION actor (image 4) clapping.
+REALISM: real varied crowd, no duplicates, no empty seats, natural skin and fabric, film grain, no CG look, no text, nobody resembles a real celebrity. AUDIO: no music; roaring applause, "wow"s, the two lines clearly audible.
